@@ -1,6 +1,6 @@
 # ht-webm-ame-presets
 
-Adobe Media Encoder presets for WebM video (silent web embeds), optimized for fast load times, and designed to balance file size and image quality.
+Adobe Media Encoder presets for silent web embeds (using WebM VP9). Six commonly used ecom sizes. Optimized for fast load times, and designed to balance file size and image quality.
 
 # Specifications
 **Resolution**: various (pixel dimensions specified in filename)

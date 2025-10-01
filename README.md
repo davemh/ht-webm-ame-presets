@@ -1,6 +1,6 @@
 # ht-webm-ame-presets
 
-Adobe Media Encoder presets for WebM video, balancing file size and image quality.
+Adobe Media Encoder presets for WebM video (silent web embeds), optimized for fast load times, and designed to balance file size and image quality.
 
 # Specifications
 **Resolution**: various (pixel dimensions specified in filename)

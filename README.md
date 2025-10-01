@@ -9,6 +9,7 @@ Adobe Media Encoder presets for WebM video (silent web embeds), optimized for fa
 - 1420 x 500
 - 1080 x 1920
 - 690 x 690
+- 640 x 690
 	
 **Framerate**: 24 fps
 
